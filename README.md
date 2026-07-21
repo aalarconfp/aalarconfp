@@ -107,15 +107,24 @@ QuickBooks Online & Desktop · Zoho Books · ERP-Integrated Reporting Workflows
 
 ---
 
-## Currently Building
+## Current Focus
 
-Expanding from Excel/Power BI-based reporting into a broader finance systems methology:
+Building on a foundation in controllership, financial reporting, and FP&A by expanding capabilities in modern finance systems, analytics, and automation.
 
-- SQL for financial data querying (developing)
-- Python for finance automation (learning)
-- AI-assisted financial analysis and reporting workflows
+Current areas of focus include:
 
-Certifications: Financial Modeling & Valuation Analyst (FMVA)® — CFI · Financial Planning & Analysis Professional (FPAP)® — CFI · AI & Business Inteligence for Finance Specialization (AIFS) - CFI · Corporate Controller Program — Controller Academy
+- Finance automation using AI-assisted workflows
+- Business Intelligence and executive reporting
+- Financial systems integration and reporting architecture
+
+### Professional Development
+
+- Business Administration Professional
+- Master in Financial Management
+- Financial Planning & Analysis Professional (FPAP)® — Corporate Finance Institute
+- Financial Modeling & Valuation Analyst (FMVA)® — Corporate Finance Institute
+- AI & Business Intelligence for Finance Specialization — Corporate Finance Institute
+- Corporate Controller Program — Controller Academy
 
 ---
 
