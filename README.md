@@ -94,7 +94,7 @@ Financial Reporting · US GAAP · Budgeting & Forecasting · Cash Flow Forecasti
 Excel (Advanced) · Power Query · Power Pivot · Power BI · VBA
 
 **Systems**
-QuickBooks Online & Desktop · ERP-Integrated Reporting Workflows · Git · GitHub
+QuickBooks Online & Desktop · Zohoo Books · ERP-Integrated Reporting Workflows
 
 ---
 
@@ -121,7 +121,7 @@ Expanding from Excel/Power BI-based reporting into a broader finance systems too
 - Python for finance automation (learning)
 - AI-assisted financial analysis and reporting workflows
 
-Certifications: Financial Modeling & Valuation Analyst (FMVA)® — CFI · Financial Planning & Analysis Professional (FPAP)® — CFI · Corporate Controller Program — Controller Academy
+Certifications: Financial Modeling & Valuation Analyst (FMVA)® — CFI · Financial Planning & Analysis Professional (FPAP)® — CFI · AI & Busiiness Inteligence for Finance Specialization (AIFS) - CFI · Corporate Controller Program — Controller Academy
 
 ---
 
