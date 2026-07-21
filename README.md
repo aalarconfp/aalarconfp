@@ -115,7 +115,8 @@ Current areas of focus include:
 
 - Finance automation using AI-assisted workflows
 - Business Intelligence and executive reporting
-- Financial systems integration and reporting architecture
+- Financial/accounting systems integration and reporting architecture
+- Financial process automation and decision support
 
 ### Professional Development
 
