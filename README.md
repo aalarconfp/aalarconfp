@@ -12,8 +12,6 @@ Finance and controllership professional with 5+ years owning end-to-end financia
 
 Core focus: building the reporting infrastructure, financial models, and controls that let finance and business leaders make decisions on current, reliable numbers — multi-entity consolidation under US GAAP, budgeting and forecasting cycles, cash flow modeling, and ERP-integrated reporting automation.
 
-This profile documents that work: the systems built, the problems they solved, and the tools behind them.
-
 ---
 
 ## Business Scope
