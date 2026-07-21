@@ -103,7 +103,7 @@ QuickBooks Online & Desktop · Zoho Books · ERP-Integrated Reporting Workflows
 | Metric | Context |
 |---|---|
 | 35% | Increase in consolidated financial reporting productivity (Linkvest Capital) |
-| Days → Hours | Reporting delivery turnaround, via ERP integration and automation (Linkvest Capital) |
+| 2 Days → 3 Hours | Reporting delivery turnaround, via ERP integration and automation (Linkvest Capital) |
 | 25%+ | Reduction in month-end close cycle time across 20+ client accounts (Solvo Global) |
 | 25% | Reduction in analysis turnaround via consolidated cash flow model (Conaltura) |
 | $1B+ | AUM under reporting scope — private debt, rental properties, real estate development (Linkvest Capital) |
@@ -115,13 +115,13 @@ QuickBooks Online & Desktop · Zoho Books · ERP-Integrated Reporting Workflows
 
 ## Currently Building
 
-Expanding from Excel/Power BI-based reporting into a broader finance systems toolkit:
+Expanding from Excel/Power BI-based reporting into a broader finance systems methology:
 
 - SQL for financial data querying (developing)
 - Python for finance automation (learning)
 - AI-assisted financial analysis and reporting workflows
 
-Certifications: Financial Modeling & Valuation Analyst (FMVA)® — CFI · Financial Planning & Analysis Professional (FPAP)® — CFI · AI & Busiiness Inteligence for Finance Specialization (AIFS) - CFI · Corporate Controller Program — Controller Academy
+Certifications: Financial Modeling & Valuation Analyst (FMVA)® — CFI · Financial Planning & Analysis Professional (FPAP)® — CFI · AI & Business Inteligence for Finance Specialization (AIFS) - CFI · Corporate Controller Program — Controller Academy
 
 ---
 
