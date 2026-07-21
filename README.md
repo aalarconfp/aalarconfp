@@ -16,7 +16,7 @@ This profile documents that work: the systems built, the problems they solved, a
 
 ---
 
-## What I Do
+## Business Scope
 
 | Area | Scope |
 |---|---|
