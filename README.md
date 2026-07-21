@@ -36,10 +36,10 @@ Industries: Private Debt · Real Estate & Construction · Investment Management 
 Each repository below follows the same standard: problem, solution, tools, and business impact.
 
 ### Executive FP&A Dashboard
-**Problem:** Leadership needed a single, current view of budget-to-actual performance instead of static month-end reports.
-**Solution:** [In development — Power BI dashboard consolidating budget vs. actual by business unit with drill-down variance commentary]
-**Tools:** Power BI, Power Query, DAX
-**Business Impact:** *[To be added on completion]*
+**Problem:** Budget preparation and variance analysis relied on multiple spreadsheets, making it difficult to consistently evaluate business performance, understand key drivers, and support planning discussions across departments
+**Solution:** Developed an integrated Budget vs. Actual financial model to support the annual budgeting process and ongoing performance analysis. The model consolidated financial data, automated variance calculations, and generated actionable insights into revenue, expenses, and profitability to improve budget creation, interpretation, and management reporting
+**Tools:** Microsoft Excel, Financial Modeling, Data Analysis, Power Query
+**Business Impact:** Improved visibility into budget variances and underlying business drivers
 
 ### 13-Week Rolling Cash Flow Forecast
 **Problem:** Limited forward visibility into short-term liquidity drivers was constraining capital allocation decisions.
@@ -49,9 +49,9 @@ Each repository below follows the same standard: problem, solution, tools, and b
 
 ### Multi-Entity Financial Reporting (US GAAP)
 **Problem:** Reporting across multiple entities (private debt, rental properties, real estate development) required a consistent, audit-ready consolidation process.
-**Solution:** [In development — template for consolidated entity-level reporting: P&L, cash flow, and balance sheet analysis]
+**Solution:** Developed and enhanced a standardized multi-entity financial reporting process by consolidating financial information across business units, streamlining month-end reporting, and integrating ERP data into automated reporting workflows. Prepared consolidated P&L and balance sheet, supported intercompany reconciliations, and delivered financial analysis for management and external auditors.
 **Tools:** Excel, QuickBooks Online/Desktop, Power Query
-**Business Impact:** *[To be added on completion]*
+**Business Impact:** Supported executive decision-making with consolidated financial statements and variance analysis across a portfolio exceeding USD 1B in assets under management
 
 ### Financial Close Automation
 **Problem:** Manual month-end close across a portfolio of client accounts was slow and inconsistent.
@@ -76,12 +76,6 @@ Each repository below follows the same standard: problem, solution, tools, and b
 **Solution:** Delivered a consolidated cash flow model and corporate financial projections at the project level.
 **Tools:** Excel, Power Query
 **Business Impact:** Cut analysis turnaround by 25% and increased reporting consistency for senior management.
-
-### Power BI Executive Reporting Suite
-**Problem:** Executive stakeholders needed reporting output, not raw data exports.
-**Solution:** [In development — KPI and variance reporting layer built on top of existing financial models]
-**Tools:** Power BI, DAX, Power Query
-**Business Impact:** *[To be added on completion]*
 
 ---
 
