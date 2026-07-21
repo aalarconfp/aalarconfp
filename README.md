@@ -120,8 +120,8 @@ Current areas of focus include:
 
 ### Professional Development
 
-- Business Administration Professional
-- Master in Financial Management
+- Business Administration Professional - EAFIT
+- Master in Financial Management - EAFIT
 - Financial Planning & Analysis Professional (FPAP)® — Corporate Finance Institute
 - Financial Modeling & Valuation Analyst (FMVA)® — Corporate Finance Institute
 - AI & Business Intelligence for Finance Specialization — Corporate Finance Institute
