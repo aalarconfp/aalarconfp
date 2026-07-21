@@ -94,7 +94,7 @@ Financial Reporting · US GAAP · Budgeting & Forecasting · Cash Flow Forecasti
 Excel (Advanced) · Power Query · Power Pivot · Power BI · VBA
 
 **Systems**
-QuickBooks Online & Desktop · Zohoo Books · ERP-Integrated Reporting Workflows
+QuickBooks Online & Desktop · Zoho Books · ERP-Integrated Reporting Workflows
 
 ---
 
